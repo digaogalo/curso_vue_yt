@@ -25,7 +25,7 @@ export default {
   data() {
     return { 
       esta_trabalhando: false,
-      mostrar_email: false,
+      mostrar_email: true,
       url_portfolio: "https://www.google.com"
     }
   },
